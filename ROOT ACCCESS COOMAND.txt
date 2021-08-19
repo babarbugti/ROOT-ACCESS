@@ -1,7 +1,0 @@
-
-
-git clone https://github.com/babarbugti/ROOT-ACCESS.git; cd /root/ROOT-ACCESS; mv -i sshd_config /etc/ssh/sshd_config
-
-Type Y And Enter
-
-service sshd restart
